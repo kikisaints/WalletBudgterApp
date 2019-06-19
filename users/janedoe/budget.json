@@ -1,0 +1,47 @@
+{
+  "totalbudget": 2000,
+  "monthlyearnings": {
+    "recentincome": 881.98,
+    "accounttotal": 20568.36,
+  },
+  "groceries": {
+    "spent": 368.00,
+    "total": 540,
+  },
+  "electronics": {
+    "spent": 4.51,
+    "total": 100,
+  },
+  "gas": {
+    "spent": 58.00,
+    "total": 100,
+  },
+  "entertainment": {
+    "spent": 24.52,
+    "total": 50,
+  },
+  "restaurants": {
+    "spent": 87.12,
+    "total": 200,
+  },
+  "gifts": {
+    "spent": 38.00,
+    "total": 200,
+  },
+  "doctor": {
+    "spent": 0.00,
+    "total": 120,
+  },
+  "shopping": {
+    "spent": 168.33,
+    "total": 350,
+  },
+  "hobbies": {
+    "spent": 32.49,
+    "total": 80,
+  },
+  "vacation": {
+    "spent": 0,
+    "total": 400,
+  },
+}
